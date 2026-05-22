@@ -5,6 +5,11 @@ using System.Text.Json;
 
 public static class Transform
 {
+    public static TradeOperations ImportTradeOperations(string dataFilePath)
+    {
+        return new TradeOperations(ImportTraders(dataFilePath));
+    }
+
     public static List<Trader> ImportTraders(string dataFilePath)
     {
         string absolutePath = Path.GetFullPath(dataFilePath);
@@ -47,7 +52,8 @@ public static class Transform
         string inputPath = Path.Combine(baseDirectory, "data.json");
         string outputPath = Path.Combine(baseDirectory, "traders.json");
 
-        List<Trader> traders = ImportTraders(inputPath);
+        TradeOperations tradeOperations = ImportTradeOperations(inputPath);
+        List<Trader> traders = tradeOperations.Traders;
 
         var options = new JsonSerializerOptions
         {
