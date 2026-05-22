@@ -2,29 +2,23 @@ using System;
 using System.Collections.Generic;
 using System.Text.Json;
 
-public sealed class Deal
-{
-    public int TradeId { get; init; }
-    public decimal AmountToBeEarned { get; init; }
-    public int? Probability { get; init; }
-}
-
 public sealed class Trader
 {
     public int Id { get; init; }
-    public string? FullName { get; init; }
     public string? FirstName { get; init; }
     public string? LastName { get; init; }
     public string? Email { get; init; }
     public string? Gender { get; init; }
     public List<int> SourceBusinessCases { get; } = new();
-    public List<Deal> Deals { get; } = new();
+    public List<Trade> Deals { get; } = new();
+    public List<Trade> FinishedTrades { get; } = new();
+    public List<Trade> OngoingTrades { get; } = new();
     public decimal TotalTradeAmount
     {
         get
         {
             decimal total = 0;
-            foreach (Deal deal in Deals)
+            foreach (Trade deal in Deals)
             {
                 total += deal.AmountToBeEarned;
             }
@@ -39,7 +33,7 @@ public sealed class Trader
             int probabilityCount = 0;
             int probabilitySum = 0;
 
-            foreach (Deal deal in Deals)
+            foreach (Trade deal in Deals)
             {
                 if (!deal.Probability.HasValue)
                 {
@@ -59,6 +53,23 @@ public sealed class Trader
         }
     }
     public int DealCount => Deals.Count;
+    public int FinishedTradeCount => FinishedTrades.Count;
+    public int OngoingTradeCount => OngoingTrades.Count;
+    public int Wins => CountTradesByStatus(IsWinStatus);
+    public int Losses => CountTradesByStatus(IsLostStatus);
+    public double? WinRate
+    {
+        get
+        {
+            int decidedTrades = Wins + Losses;
+            if (decidedTrades == 0)
+            {
+                return null;
+            }
+
+            return (double)Wins / decidedTrades * 100;
+        }
+    }
     public decimal? AverageAmountPerDeal
     {
         get
@@ -71,6 +82,10 @@ public sealed class Trader
             return TotalTradeAmount / DealCount;
         }
     }
+    public decimal? AverageAmountPerFinishedTrade => CalculateAverageAmount(FinishedTrades);
+    public decimal? AverageAmountPerOngoingTrade => CalculateAverageAmount(OngoingTrades);
+    public double? AverageFinishedTradeProbability => CalculateAverageProbability(FinishedTrades);
+    public double? AverageOngoingTradeProbability => CalculateAverageProbability(OngoingTrades);
 
     public static Trader? FromBusinessCase(JsonElement businessCase)
     {
@@ -87,7 +102,6 @@ public sealed class Trader
         var trader = new Trader
         {
             Id = ownerId,
-            FullName = ReadString(owner, "fullName") ?? ReadString(owner, "fullNameWithoutTitles"),
             FirstName = ReadString(owner, "firstName"),
             LastName = ReadString(owner, "lastName"),
             Email = ReadString(owner, "contactInfo.email"),
@@ -118,7 +132,7 @@ public sealed class Trader
         AddSourceBusinessCase(businessCaseId);
 
         bool hasDeal = false;
-        foreach (Deal deal in Deals)
+        foreach (Trade deal in Deals)
         {
             if (deal.TradeId == businessCaseId)
             {
@@ -132,12 +146,126 @@ public sealed class Trader
             return;
         }
 
-        Deals.Add(new Deal
+        string? status = ReadString(businessCase, "status");
+
+        Trade newTrade = new Trade
         {
             TradeId = businessCaseId,
             AmountToBeEarned = ReadDecimal(businessCase, "totalAmount") ?? 0,
-            Probability = ReadInt32(businessCase, "probability")
-        });
+            Probability = ReadInt32(businessCase, "probability"),
+            ValidFrom = ReadString(businessCase, "validFrom"),
+            ValidTill = ReadString(businessCase, "validTill"),
+            ScheduledEnd = ReadString(businessCase, "scheduledEnd"),
+            CreatedAt = ReadString(businessCase, "rowInfo.createdAt"),
+            Status = status,
+            Finished = IsFinishedStatus(status)
+        };
+
+        Deals.Add(newTrade);
+
+        if (newTrade.Finished)
+        {
+            FinishedTrades.Add(newTrade);
+        }
+
+        if (IsOngoingStatus(status))
+        {
+            OngoingTrades.Add(newTrade);
+        }
+    }
+
+    private static decimal? CalculateAverageAmount(List<Trade> trades)
+    {
+        if (trades.Count == 0)
+        {
+            return null;
+        }
+
+        decimal total = 0;
+        foreach (Trade trade in trades)
+        {
+            total += trade.AmountToBeEarned;
+        }
+
+        return total / trades.Count;
+    }
+
+    private static double? CalculateAverageProbability(List<Trade> trades)
+    {
+        int count = 0;
+        int sum = 0;
+
+        foreach (Trade trade in trades)
+        {
+            if (!trade.Probability.HasValue)
+            {
+                continue;
+            }
+
+            sum += trade.Probability.Value;
+            count++;
+        }
+
+        if (count == 0)
+        {
+            return null;
+        }
+
+        return (double)sum / count;
+    }
+
+    private static bool IsFinishedStatus(string? status)
+    {
+        if (string.IsNullOrWhiteSpace(status))
+        {
+            return false;
+        }
+
+        return status.Contains("WIN", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static bool IsWinStatus(string? status)
+    {
+        if (string.IsNullOrWhiteSpace(status))
+        {
+            return false;
+        }
+
+        return status.Contains("WIN", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static bool IsLostStatus(string? status)
+    {
+        if (string.IsNullOrWhiteSpace(status))
+        {
+            return false;
+        }
+
+        return status.Contains("LOST", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static bool IsOngoingStatus(string? status)
+    {
+        if (string.IsNullOrWhiteSpace(status))
+        {
+            return false;
+        }
+
+        return status.Contains("ACTIVE", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private int CountTradesByStatus(Func<string?, bool> statusMatcher)
+    {
+        int count = 0;
+        foreach (Trade trade in Deals)
+        {
+            if (statusMatcher(trade.Status))
+            {
+                count++;
+            }
+        }
+
+        return count;
     }
 
     private static string? ReadString(JsonElement element, string propertyName)
