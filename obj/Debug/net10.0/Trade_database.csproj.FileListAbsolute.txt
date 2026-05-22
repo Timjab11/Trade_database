@@ -1,0 +1,15 @@
+/workspaces/Trade_database/bin/Debug/net10.0/Trade_database
+/workspaces/Trade_database/bin/Debug/net10.0/Trade_database.deps.json
+/workspaces/Trade_database/bin/Debug/net10.0/Trade_database.runtimeconfig.json
+/workspaces/Trade_database/bin/Debug/net10.0/Trade_database.dll
+/workspaces/Trade_database/bin/Debug/net10.0/Trade_database.pdb
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.AssemblyInfoInputs.cache
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.AssemblyInfo.cs
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.csproj.CoreCompileInputs.cache
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.sourcelink.json
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.dll
+/workspaces/Trade_database/obj/Debug/net10.0/refint/Trade_database.dll
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.pdb
+/workspaces/Trade_database/obj/Debug/net10.0/Trade_database.genruntimeconfig.cache
+/workspaces/Trade_database/obj/Debug/net10.0/ref/Trade_database.dll

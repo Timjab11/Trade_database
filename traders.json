@@ -1,0 +1,6194 @@
+[
+  {
+    "Id": 40,
+    "FullName": "Jana Ryb\u00E1\u0159ov\u00E1",
+    "FirstName": "Jana",
+    "LastName": "Ryb\u00E1\u0159ov\u00E1",
+    "Email": "jana.rybarova@raynet.cz",
+    "Gender": "FEMALE",
+    "SourceBusinessCases": [
+      100,
+      101,
+      107,
+      129,
+      131,
+      138,
+      177,
+      185,
+      191,
+      211,
+      212,
+      222,
+      226,
+      233,
+      242,
+      246,
+      252,
+      253,
+      256,
+      266,
+      282,
+      285,
+      286,
+      288,
+      311,
+      326,
+      329,
+      346,
+      359,
+      367,
+      382,
+      383,
+      410,
+      413,
+      429,
+      444,
+      458,
+      473,
+      493,
+      499,
+      540,
+      556,
+      592,
+      598,
+      604,
+      607,
+      610,
+      640,
+      643,
+      644,
+      653,
+      667,
+      697,
+      709,
+      737,
+      742,
+      749,
+      750,
+      768,
+      770,
+      800,
+      819,
+      821,
+      823,
+      827,
+      893,
+      922,
+      925,
+      929,
+      939,
+      941,
+      942,
+      951,
+      952,
+      954,
+      957,
+      965,
+      969,
+      976,
+      981,
+      1014,
+      1016,
+      1021,
+      1045,
+      1049,
+      1051,
+      1067,
+      1078,
+      1081,
+      1090,
+      1091,
+      1092
+    ],
+    "Deals": [
+      {
+        "TradeId": 100,
+        "AmountToBeEarned": 342800,
+        "Probability": 40
+      },
+      {
+        "TradeId": 101,
+        "AmountToBeEarned": 320700,
+        "Probability": 80
+      },
+      {
+        "TradeId": 107,
+        "AmountToBeEarned": 464200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 129,
+        "AmountToBeEarned": 26100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 131,
+        "AmountToBeEarned": 231200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 138,
+        "AmountToBeEarned": 111800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 177,
+        "AmountToBeEarned": 400300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 185,
+        "AmountToBeEarned": 485400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 191,
+        "AmountToBeEarned": 387600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 211,
+        "AmountToBeEarned": 316700,
+        "Probability": 50
+      },
+      {
+        "TradeId": 212,
+        "AmountToBeEarned": 448000,
+        "Probability": 70
+      },
+      {
+        "TradeId": 222,
+        "AmountToBeEarned": 7700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 226,
+        "AmountToBeEarned": 11100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 233,
+        "AmountToBeEarned": 342200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 242,
+        "AmountToBeEarned": 247800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 246,
+        "AmountToBeEarned": 372400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 252,
+        "AmountToBeEarned": 70000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 253,
+        "AmountToBeEarned": 132500,
+        "Probability": 75
+      },
+      {
+        "TradeId": 256,
+        "AmountToBeEarned": 381400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 266,
+        "AmountToBeEarned": 132400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 282,
+        "AmountToBeEarned": 292900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 285,
+        "AmountToBeEarned": 127000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 286,
+        "AmountToBeEarned": 349900,
+        "Probability": 10
+      },
+      {
+        "TradeId": 288,
+        "AmountToBeEarned": 58900,
+        "Probability": 85
+      },
+      {
+        "TradeId": 311,
+        "AmountToBeEarned": 264500,
+        "Probability": 70
+      },
+      {
+        "TradeId": 326,
+        "AmountToBeEarned": 177800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 329,
+        "AmountToBeEarned": 74700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 346,
+        "AmountToBeEarned": 329600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 359,
+        "AmountToBeEarned": 251600,
+        "Probability": 90
+      },
+      {
+        "TradeId": 367,
+        "AmountToBeEarned": 448600,
+        "Probability": 15
+      },
+      {
+        "TradeId": 382,
+        "AmountToBeEarned": 332100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 383,
+        "AmountToBeEarned": 420000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 410,
+        "AmountToBeEarned": 342100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 413,
+        "AmountToBeEarned": 46200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 429,
+        "AmountToBeEarned": 197000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 444,
+        "AmountToBeEarned": 333300,
+        "Probability": 15
+      },
+      {
+        "TradeId": 458,
+        "AmountToBeEarned": 164700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 473,
+        "AmountToBeEarned": 354600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 493,
+        "AmountToBeEarned": 221100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 499,
+        "AmountToBeEarned": 55900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 540,
+        "AmountToBeEarned": 170300,
+        "Probability": 50
+      },
+      {
+        "TradeId": 556,
+        "AmountToBeEarned": 96400,
+        "Probability": 15
+      },
+      {
+        "TradeId": 592,
+        "AmountToBeEarned": 262100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 598,
+        "AmountToBeEarned": 329600,
+        "Probability": 75
+      },
+      {
+        "TradeId": 604,
+        "AmountToBeEarned": 271500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 607,
+        "AmountToBeEarned": 103300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 610,
+        "AmountToBeEarned": 347000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 640,
+        "AmountToBeEarned": 347400,
+        "Probability": 60
+      },
+      {
+        "TradeId": 643,
+        "AmountToBeEarned": 258800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 644,
+        "AmountToBeEarned": 17900,
+        "Probability": 25
+      },
+      {
+        "TradeId": 653,
+        "AmountToBeEarned": 377200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 667,
+        "AmountToBeEarned": 157800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 697,
+        "AmountToBeEarned": 496600,
+        "Probability": 90
+      },
+      {
+        "TradeId": 709,
+        "AmountToBeEarned": 271900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 737,
+        "AmountToBeEarned": 129900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 742,
+        "AmountToBeEarned": 272200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 749,
+        "AmountToBeEarned": 366900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 750,
+        "AmountToBeEarned": 25700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 768,
+        "AmountToBeEarned": 207200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 770,
+        "AmountToBeEarned": 385200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 800,
+        "AmountToBeEarned": 123900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 819,
+        "AmountToBeEarned": 325600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 821,
+        "AmountToBeEarned": 71500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 823,
+        "AmountToBeEarned": 258800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 827,
+        "AmountToBeEarned": 446600,
+        "Probability": 60
+      },
+      {
+        "TradeId": 893,
+        "AmountToBeEarned": 283300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 922,
+        "AmountToBeEarned": 211300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 925,
+        "AmountToBeEarned": 357400,
+        "Probability": 80
+      },
+      {
+        "TradeId": 929,
+        "AmountToBeEarned": 22700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 939,
+        "AmountToBeEarned": 331800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 941,
+        "AmountToBeEarned": 130800,
+        "Probability": 80
+      },
+      {
+        "TradeId": 942,
+        "AmountToBeEarned": 425700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 951,
+        "AmountToBeEarned": 337600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 952,
+        "AmountToBeEarned": 109900,
+        "Probability": 80
+      },
+      {
+        "TradeId": 954,
+        "AmountToBeEarned": 173300,
+        "Probability": 60
+      },
+      {
+        "TradeId": 957,
+        "AmountToBeEarned": 346100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 965,
+        "AmountToBeEarned": 83700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 969,
+        "AmountToBeEarned": 9900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 976,
+        "AmountToBeEarned": 499700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 981,
+        "AmountToBeEarned": 24400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1014,
+        "AmountToBeEarned": 337500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1016,
+        "AmountToBeEarned": 109500,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1021,
+        "AmountToBeEarned": 141500,
+        "Probability": 90
+      },
+      {
+        "TradeId": 1045,
+        "AmountToBeEarned": 49500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1049,
+        "AmountToBeEarned": 180000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1051,
+        "AmountToBeEarned": 100800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1067,
+        "AmountToBeEarned": 187000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1078,
+        "AmountToBeEarned": 361800,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1081,
+        "AmountToBeEarned": 3000,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1090,
+        "AmountToBeEarned": 153800,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1091,
+        "AmountToBeEarned": 380300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1092,
+        "AmountToBeEarned": 411200,
+        "Probability": 85
+      }
+    ],
+    "TotalTradeAmount": 21959600,
+    "AverageProbability": 68.15217391304348,
+    "DealCount": 92,
+    "AverageAmountPerDeal": 238691.30434782608695652173913
+  },
+  {
+    "Id": 32,
+    "FullName": "V\u00E1clav Tu\u0148\u00E1k",
+    "FirstName": "V\u00E1clav",
+    "LastName": "Tu\u0148\u00E1k",
+    "Email": "vaclav.tunak@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      102,
+      125,
+      156,
+      192,
+      237,
+      247,
+      259,
+      264,
+      275,
+      278,
+      284,
+      287,
+      291,
+      296,
+      298,
+      310,
+      324,
+      327,
+      339,
+      343,
+      345,
+      350,
+      364,
+      376,
+      385,
+      393,
+      394,
+      400,
+      427,
+      438,
+      486,
+      549,
+      564,
+      631,
+      652,
+      666,
+      671,
+      672,
+      674,
+      716,
+      721,
+      751,
+      754,
+      757,
+      758,
+      791,
+      802,
+      811,
+      825,
+      837,
+      838,
+      845,
+      847,
+      851,
+      856,
+      860,
+      869,
+      875,
+      881,
+      898,
+      903,
+      909,
+      911,
+      931,
+      935,
+      940,
+      950,
+      961,
+      964,
+      971,
+      972,
+      973,
+      986,
+      987,
+      1007,
+      1033,
+      1034,
+      1060,
+      1071,
+      1075,
+      1085,
+      1093,
+      1098
+    ],
+    "Deals": [
+      {
+        "TradeId": 102,
+        "AmountToBeEarned": 53400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 125,
+        "AmountToBeEarned": 123900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 156,
+        "AmountToBeEarned": 322400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 192,
+        "AmountToBeEarned": 458600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 237,
+        "AmountToBeEarned": 271600,
+        "Probability": 20
+      },
+      {
+        "TradeId": 247,
+        "AmountToBeEarned": 241800,
+        "Probability": 85
+      },
+      {
+        "TradeId": 259,
+        "AmountToBeEarned": 156700,
+        "Probability": 15
+      },
+      {
+        "TradeId": 264,
+        "AmountToBeEarned": 13700,
+        "Probability": 60
+      },
+      {
+        "TradeId": 275,
+        "AmountToBeEarned": 101000,
+        "Probability": 15
+      },
+      {
+        "TradeId": 278,
+        "AmountToBeEarned": 418900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 284,
+        "AmountToBeEarned": 269400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 287,
+        "AmountToBeEarned": 290200,
+        "Probability": 70
+      },
+      {
+        "TradeId": 291,
+        "AmountToBeEarned": 345700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 296,
+        "AmountToBeEarned": 329000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 298,
+        "AmountToBeEarned": 474300,
+        "Probability": 50
+      },
+      {
+        "TradeId": 310,
+        "AmountToBeEarned": 28300,
+        "Probability": 85
+      },
+      {
+        "TradeId": 324,
+        "AmountToBeEarned": 214400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 327,
+        "AmountToBeEarned": 467400,
+        "Probability": 40
+      },
+      {
+        "TradeId": 339,
+        "AmountToBeEarned": 18100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 343,
+        "AmountToBeEarned": 311800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 345,
+        "AmountToBeEarned": 415100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 350,
+        "AmountToBeEarned": 147000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 364,
+        "AmountToBeEarned": 391500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 376,
+        "AmountToBeEarned": 306400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 385,
+        "AmountToBeEarned": 419900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 393,
+        "AmountToBeEarned": 229900,
+        "Probability": 10
+      },
+      {
+        "TradeId": 394,
+        "AmountToBeEarned": 210600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 400,
+        "AmountToBeEarned": 170000,
+        "Probability": 70
+      },
+      {
+        "TradeId": 427,
+        "AmountToBeEarned": 208100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 438,
+        "AmountToBeEarned": 12800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 486,
+        "AmountToBeEarned": 65400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 549,
+        "AmountToBeEarned": 9500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 564,
+        "AmountToBeEarned": 145400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 631,
+        "AmountToBeEarned": 319800,
+        "Probability": 50
+      },
+      {
+        "TradeId": 652,
+        "AmountToBeEarned": 30300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 666,
+        "AmountToBeEarned": 86800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 671,
+        "AmountToBeEarned": 384500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 672,
+        "AmountToBeEarned": 207500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 674,
+        "AmountToBeEarned": 265800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 716,
+        "AmountToBeEarned": 500000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 721,
+        "AmountToBeEarned": 219300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 751,
+        "AmountToBeEarned": 190000,
+        "Probability": 85
+      },
+      {
+        "TradeId": 754,
+        "AmountToBeEarned": 231000,
+        "Probability": 10
+      },
+      {
+        "TradeId": 757,
+        "AmountToBeEarned": 50800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 758,
+        "AmountToBeEarned": 273100,
+        "Probability": 70
+      },
+      {
+        "TradeId": 791,
+        "AmountToBeEarned": 78100,
+        "Probability": 85
+      },
+      {
+        "TradeId": 802,
+        "AmountToBeEarned": 344100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 811,
+        "AmountToBeEarned": 218200,
+        "Probability": 10
+      },
+      {
+        "TradeId": 825,
+        "AmountToBeEarned": 16000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 837,
+        "AmountToBeEarned": 8200,
+        "Probability": 15
+      },
+      {
+        "TradeId": 838,
+        "AmountToBeEarned": 53500,
+        "Probability": 85
+      },
+      {
+        "TradeId": 845,
+        "AmountToBeEarned": 228600,
+        "Probability": 60
+      },
+      {
+        "TradeId": 847,
+        "AmountToBeEarned": 187900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 851,
+        "AmountToBeEarned": 13200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 856,
+        "AmountToBeEarned": 120200,
+        "Probability": 90
+      },
+      {
+        "TradeId": 860,
+        "AmountToBeEarned": 40900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 869,
+        "AmountToBeEarned": 15000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 875,
+        "AmountToBeEarned": 462700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 881,
+        "AmountToBeEarned": 376100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 898,
+        "AmountToBeEarned": 45200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 903,
+        "AmountToBeEarned": 8200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 909,
+        "AmountToBeEarned": 212400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 911,
+        "AmountToBeEarned": 246300,
+        "Probability": 90
+      },
+      {
+        "TradeId": 931,
+        "AmountToBeEarned": 55300,
+        "Probability": 15
+      },
+      {
+        "TradeId": 935,
+        "AmountToBeEarned": 103900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 940,
+        "AmountToBeEarned": 87500,
+        "Probability": 40
+      },
+      {
+        "TradeId": 950,
+        "AmountToBeEarned": 479700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 961,
+        "AmountToBeEarned": 15500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 964,
+        "AmountToBeEarned": 5900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 971,
+        "AmountToBeEarned": 111900,
+        "Probability": 20
+      },
+      {
+        "TradeId": 972,
+        "AmountToBeEarned": 35200,
+        "Probability": 15
+      },
+      {
+        "TradeId": 973,
+        "AmountToBeEarned": 302700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 986,
+        "AmountToBeEarned": 9100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 987,
+        "AmountToBeEarned": 307700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1007,
+        "AmountToBeEarned": 426000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1033,
+        "AmountToBeEarned": 120100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1034,
+        "AmountToBeEarned": 4100,
+        "Probability": 70
+      },
+      {
+        "TradeId": 1060,
+        "AmountToBeEarned": 153800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1071,
+        "AmountToBeEarned": 179200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1075,
+        "AmountToBeEarned": 85900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1085,
+        "AmountToBeEarned": 62000,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1093,
+        "AmountToBeEarned": 248200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 1098,
+        "AmountToBeEarned": 146200,
+        "Probability": 100
+      }
+    ],
+    "TotalTradeAmount": 16015800,
+    "AverageProbability": 65.5421686746988,
+    "DealCount": 83,
+    "AverageAmountPerDeal": 192961.44578313253012048192771
+  },
+  {
+    "Id": 33,
+    "FullName": "Karel Kosatka",
+    "FirstName": "Karel",
+    "LastName": "Kosatka",
+    "Email": "karel.kosatka@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      103,
+      122,
+      130,
+      148,
+      157,
+      197,
+      216,
+      220,
+      231,
+      245,
+      248,
+      265,
+      276,
+      293,
+      309,
+      368,
+      369,
+      398,
+      399,
+      402,
+      403,
+      428,
+      450,
+      467,
+      494,
+      495,
+      506,
+      518,
+      520,
+      521,
+      533,
+      542,
+      553,
+      555,
+      559,
+      566,
+      580,
+      605,
+      612,
+      621,
+      630,
+      633,
+      650,
+      654,
+      706,
+      715,
+      720,
+      725,
+      728,
+      765,
+      773,
+      786,
+      804,
+      806,
+      817,
+      826,
+      836,
+      850,
+      880,
+      900,
+      902,
+      913,
+      920,
+      926,
+      933,
+      936,
+      968,
+      974,
+      991,
+      998,
+      1008,
+      1024,
+      1043,
+      1055,
+      1072,
+      1073,
+      1077,
+      1094,
+      1099
+    ],
+    "Deals": [
+      {
+        "TradeId": 103,
+        "AmountToBeEarned": 27700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 122,
+        "AmountToBeEarned": 71300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 130,
+        "AmountToBeEarned": 214100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 148,
+        "AmountToBeEarned": 135100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 157,
+        "AmountToBeEarned": 357700,
+        "Probability": 10
+      },
+      {
+        "TradeId": 197,
+        "AmountToBeEarned": 155900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 216,
+        "AmountToBeEarned": 461600,
+        "Probability": 75
+      },
+      {
+        "TradeId": 220,
+        "AmountToBeEarned": 474200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 231,
+        "AmountToBeEarned": 164500,
+        "Probability": 75
+      },
+      {
+        "TradeId": 245,
+        "AmountToBeEarned": 92400,
+        "Probability": 75
+      },
+      {
+        "TradeId": 248,
+        "AmountToBeEarned": 270100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 265,
+        "AmountToBeEarned": 46800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 276,
+        "AmountToBeEarned": 66000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 293,
+        "AmountToBeEarned": 68000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 309,
+        "AmountToBeEarned": 13000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 368,
+        "AmountToBeEarned": 371500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 369,
+        "AmountToBeEarned": 44000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 398,
+        "AmountToBeEarned": 406200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 399,
+        "AmountToBeEarned": 128100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 402,
+        "AmountToBeEarned": 397200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 403,
+        "AmountToBeEarned": 128100,
+        "Probability": 10
+      },
+      {
+        "TradeId": 428,
+        "AmountToBeEarned": 425600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 450,
+        "AmountToBeEarned": 383500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 467,
+        "AmountToBeEarned": 215400,
+        "Probability": 80
+      },
+      {
+        "TradeId": 494,
+        "AmountToBeEarned": 172200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 495,
+        "AmountToBeEarned": 443000,
+        "Probability": 75
+      },
+      {
+        "TradeId": 506,
+        "AmountToBeEarned": 378800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 518,
+        "AmountToBeEarned": 3500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 520,
+        "AmountToBeEarned": 286100,
+        "Probability": 10
+      },
+      {
+        "TradeId": 521,
+        "AmountToBeEarned": 117900,
+        "Probability": 90
+      },
+      {
+        "TradeId": 533,
+        "AmountToBeEarned": 30200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 542,
+        "AmountToBeEarned": 433700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 553,
+        "AmountToBeEarned": 276900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 555,
+        "AmountToBeEarned": 146100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 559,
+        "AmountToBeEarned": 405900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 566,
+        "AmountToBeEarned": 134400,
+        "Probability": 80
+      },
+      {
+        "TradeId": 580,
+        "AmountToBeEarned": 344500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 605,
+        "AmountToBeEarned": 419600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 612,
+        "AmountToBeEarned": 26600,
+        "Probability": 10
+      },
+      {
+        "TradeId": 621,
+        "AmountToBeEarned": 324700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 630,
+        "AmountToBeEarned": 124500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 633,
+        "AmountToBeEarned": 421100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 650,
+        "AmountToBeEarned": 147200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 654,
+        "AmountToBeEarned": 177400,
+        "Probability": 75
+      },
+      {
+        "TradeId": 706,
+        "AmountToBeEarned": 7900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 715,
+        "AmountToBeEarned": 209200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 720,
+        "AmountToBeEarned": 488600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 725,
+        "AmountToBeEarned": 211300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 728,
+        "AmountToBeEarned": 183400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 765,
+        "AmountToBeEarned": 323100,
+        "Probability": 85
+      },
+      {
+        "TradeId": 773,
+        "AmountToBeEarned": 105200,
+        "Probability": 70
+      },
+      {
+        "TradeId": 786,
+        "AmountToBeEarned": 204700,
+        "Probability": 50
+      },
+      {
+        "TradeId": 804,
+        "AmountToBeEarned": 207000,
+        "Probability": 40
+      },
+      {
+        "TradeId": 806,
+        "AmountToBeEarned": 102100,
+        "Probability": 80
+      },
+      {
+        "TradeId": 817,
+        "AmountToBeEarned": 237300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 826,
+        "AmountToBeEarned": 60900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 836,
+        "AmountToBeEarned": 13700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 850,
+        "AmountToBeEarned": 327000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 880,
+        "AmountToBeEarned": 43100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 900,
+        "AmountToBeEarned": 22900,
+        "Probability": 70
+      },
+      {
+        "TradeId": 902,
+        "AmountToBeEarned": 33400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 913,
+        "AmountToBeEarned": 80500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 920,
+        "AmountToBeEarned": 25900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 926,
+        "AmountToBeEarned": 118800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 933,
+        "AmountToBeEarned": 42000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 936,
+        "AmountToBeEarned": 75200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 968,
+        "AmountToBeEarned": 20200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 974,
+        "AmountToBeEarned": 100300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 991,
+        "AmountToBeEarned": 179100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 998,
+        "AmountToBeEarned": 185300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 1008,
+        "AmountToBeEarned": 391600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1024,
+        "AmountToBeEarned": 136100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1043,
+        "AmountToBeEarned": 424500,
+        "Probability": 70
+      },
+      {
+        "TradeId": 1055,
+        "AmountToBeEarned": 183800,
+        "Probability": 80
+      },
+      {
+        "TradeId": 1072,
+        "AmountToBeEarned": 486300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1073,
+        "AmountToBeEarned": 342300,
+        "Probability": 40
+      },
+      {
+        "TradeId": 1077,
+        "AmountToBeEarned": 450800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1094,
+        "AmountToBeEarned": 93200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1099,
+        "AmountToBeEarned": 68700,
+        "Probability": 80
+      }
+    ],
+    "TotalTradeAmount": 16117700,
+    "AverageProbability": 66.9620253164557,
+    "DealCount": 79,
+    "AverageAmountPerDeal": 204021.51898734177215189873418
+  },
+  {
+    "Id": 28,
+    "FullName": "Luk\u00E1\u0161 Sardinka",
+    "FirstName": "Luk\u00E1\u0161",
+    "LastName": "Sardinka",
+    "Email": "lukas.sardinka@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      104,
+      116,
+      127,
+      132,
+      135,
+      142,
+      145,
+      149,
+      159,
+      161,
+      166,
+      171,
+      172,
+      175,
+      194,
+      217,
+      225,
+      229,
+      241,
+      258,
+      269,
+      297,
+      302,
+      314,
+      320,
+      322,
+      337,
+      374,
+      388,
+      409,
+      414,
+      433,
+      456,
+      468,
+      509,
+      541,
+      543,
+      544,
+      593,
+      606,
+      619,
+      628,
+      632,
+      641,
+      646,
+      647,
+      649,
+      664,
+      665,
+      681,
+      694,
+      719,
+      726,
+      732,
+      747,
+      783,
+      793,
+      812,
+      818,
+      824,
+      849,
+      852,
+      858,
+      862,
+      871,
+      879,
+      884,
+      890,
+      894,
+      897,
+      917,
+      984,
+      985,
+      988,
+      993,
+      1003,
+      1006,
+      1011,
+      1013,
+      1017,
+      1020,
+      1038,
+      1047,
+      1054,
+      1069,
+      1082,
+      1086
+    ],
+    "Deals": [
+      {
+        "TradeId": 104,
+        "AmountToBeEarned": 372700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 116,
+        "AmountToBeEarned": 70800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 127,
+        "AmountToBeEarned": 85100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 132,
+        "AmountToBeEarned": 140300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 135,
+        "AmountToBeEarned": 27700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 142,
+        "AmountToBeEarned": 396800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 145,
+        "AmountToBeEarned": 415600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 149,
+        "AmountToBeEarned": 375900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 159,
+        "AmountToBeEarned": 137800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 161,
+        "AmountToBeEarned": 210800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 166,
+        "AmountToBeEarned": 275400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 171,
+        "AmountToBeEarned": 36700,
+        "Probability": 90
+      },
+      {
+        "TradeId": 172,
+        "AmountToBeEarned": 472500,
+        "Probability": 90
+      },
+      {
+        "TradeId": 175,
+        "AmountToBeEarned": 471200,
+        "Probability": 80
+      },
+      {
+        "TradeId": 194,
+        "AmountToBeEarned": 202900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 217,
+        "AmountToBeEarned": 31100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 225,
+        "AmountToBeEarned": 62800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 229,
+        "AmountToBeEarned": 211900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 241,
+        "AmountToBeEarned": 107500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 258,
+        "AmountToBeEarned": 219300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 269,
+        "AmountToBeEarned": 469400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 297,
+        "AmountToBeEarned": 214400,
+        "Probability": 40
+      },
+      {
+        "TradeId": 302,
+        "AmountToBeEarned": 32500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 314,
+        "AmountToBeEarned": 305600,
+        "Probability": 80
+      },
+      {
+        "TradeId": 320,
+        "AmountToBeEarned": 102000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 322,
+        "AmountToBeEarned": 117900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 337,
+        "AmountToBeEarned": 129900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 374,
+        "AmountToBeEarned": 95000,
+        "Probability": 80
+      },
+      {
+        "TradeId": 388,
+        "AmountToBeEarned": 155100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 409,
+        "AmountToBeEarned": 245000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 414,
+        "AmountToBeEarned": 156900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 433,
+        "AmountToBeEarned": 103500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 456,
+        "AmountToBeEarned": 114200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 468,
+        "AmountToBeEarned": 5900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 509,
+        "AmountToBeEarned": 297800,
+        "Probability": 15
+      },
+      {
+        "TradeId": 541,
+        "AmountToBeEarned": 251000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 543,
+        "AmountToBeEarned": 49700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 544,
+        "AmountToBeEarned": 245100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 593,
+        "AmountToBeEarned": 145600,
+        "Probability": 20
+      },
+      {
+        "TradeId": 606,
+        "AmountToBeEarned": 700,
+        "Probability": 40
+      },
+      {
+        "TradeId": 619,
+        "AmountToBeEarned": 405300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 628,
+        "AmountToBeEarned": 445800,
+        "Probability": 85
+      },
+      {
+        "TradeId": 632,
+        "AmountToBeEarned": 307400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 641,
+        "AmountToBeEarned": 24700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 646,
+        "AmountToBeEarned": 154100,
+        "Probability": 85
+      },
+      {
+        "TradeId": 647,
+        "AmountToBeEarned": 97100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 649,
+        "AmountToBeEarned": 61700,
+        "Probability": 10
+      },
+      {
+        "TradeId": 664,
+        "AmountToBeEarned": 363600,
+        "Probability": 85
+      },
+      {
+        "TradeId": 665,
+        "AmountToBeEarned": 99000,
+        "Probability": 70
+      },
+      {
+        "TradeId": 681,
+        "AmountToBeEarned": 110900,
+        "Probability": 90
+      },
+      {
+        "TradeId": 694,
+        "AmountToBeEarned": 250100,
+        "Probability": 85
+      },
+      {
+        "TradeId": 719,
+        "AmountToBeEarned": 51000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 726,
+        "AmountToBeEarned": 31900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 732,
+        "AmountToBeEarned": 328500,
+        "Probability": 15
+      },
+      {
+        "TradeId": 747,
+        "AmountToBeEarned": 211300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 783,
+        "AmountToBeEarned": 225100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 793,
+        "AmountToBeEarned": 197200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 812,
+        "AmountToBeEarned": 242500,
+        "Probability": 80
+      },
+      {
+        "TradeId": 818,
+        "AmountToBeEarned": 495000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 824,
+        "AmountToBeEarned": 90900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 849,
+        "AmountToBeEarned": 215200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 852,
+        "AmountToBeEarned": 90200,
+        "Probability": 10
+      },
+      {
+        "TradeId": 858,
+        "AmountToBeEarned": 332200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 862,
+        "AmountToBeEarned": 353500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 871,
+        "AmountToBeEarned": 380900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 879,
+        "AmountToBeEarned": 107100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 884,
+        "AmountToBeEarned": 74900,
+        "Probability": 10
+      },
+      {
+        "TradeId": 890,
+        "AmountToBeEarned": 800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 894,
+        "AmountToBeEarned": 282700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 897,
+        "AmountToBeEarned": 9100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 917,
+        "AmountToBeEarned": 162100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 984,
+        "AmountToBeEarned": 162100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 985,
+        "AmountToBeEarned": 29100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 988,
+        "AmountToBeEarned": 23900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 993,
+        "AmountToBeEarned": 251100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1003,
+        "AmountToBeEarned": 60400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1006,
+        "AmountToBeEarned": 493100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1011,
+        "AmountToBeEarned": 356000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1013,
+        "AmountToBeEarned": 65800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1017,
+        "AmountToBeEarned": 283100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1020,
+        "AmountToBeEarned": 26700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1038,
+        "AmountToBeEarned": 434700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1047,
+        "AmountToBeEarned": 290300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1054,
+        "AmountToBeEarned": 441800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1069,
+        "AmountToBeEarned": 412800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1082,
+        "AmountToBeEarned": 307500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1086,
+        "AmountToBeEarned": 357700,
+        "Probability": 25
+      }
+    ],
+    "TotalTradeAmount": 17759900,
+    "AverageProbability": 61.95402298850575,
+    "DealCount": 87,
+    "AverageAmountPerDeal": 204136.78160919540229885057471
+  },
+  {
+    "Id": 42,
+    "FullName": "Petra Ploticov\u00E1",
+    "FirstName": "Petra",
+    "LastName": "Ploticov\u00E1",
+    "Email": "petra.ploticova@raynet.cz",
+    "Gender": "FEMALE",
+    "SourceBusinessCases": [
+      105,
+      109,
+      119,
+      134,
+      163,
+      164,
+      165,
+      170,
+      196,
+      218,
+      221,
+      244,
+      249,
+      272,
+      304,
+      312,
+      338,
+      361,
+      363,
+      365,
+      371,
+      373,
+      375,
+      378,
+      390,
+      423,
+      431,
+      435,
+      437,
+      452,
+      460,
+      462,
+      475,
+      484,
+      485,
+      488,
+      490,
+      491,
+      498,
+      568,
+      585,
+      587,
+      609,
+      623,
+      635,
+      669,
+      685,
+      700,
+      701,
+      713,
+      748,
+      762,
+      774,
+      776,
+      795,
+      803,
+      805,
+      815,
+      822,
+      829,
+      831,
+      832,
+      833,
+      840,
+      846,
+      848,
+      859,
+      867,
+      876,
+      882,
+      895,
+      899,
+      901,
+      916,
+      921,
+      930,
+      932,
+      934,
+      958,
+      962,
+      966,
+      999,
+      1018,
+      1023,
+      1027,
+      1044,
+      1050,
+      1068,
+      1083
+    ],
+    "Deals": [
+      {
+        "TradeId": 105,
+        "AmountToBeEarned": 67900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 109,
+        "AmountToBeEarned": 57700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 119,
+        "AmountToBeEarned": 432400,
+        "Probability": 30
+      },
+      {
+        "TradeId": 134,
+        "AmountToBeEarned": 256900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 163,
+        "AmountToBeEarned": 200200,
+        "Probability": 30
+      },
+      {
+        "TradeId": 164,
+        "AmountToBeEarned": 333600,
+        "Probability": 60
+      },
+      {
+        "TradeId": 165,
+        "AmountToBeEarned": 161600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 170,
+        "AmountToBeEarned": 262100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 196,
+        "AmountToBeEarned": 94200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 218,
+        "AmountToBeEarned": 451100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 221,
+        "AmountToBeEarned": 38500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 244,
+        "AmountToBeEarned": 346500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 249,
+        "AmountToBeEarned": 381300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 272,
+        "AmountToBeEarned": 282100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 304,
+        "AmountToBeEarned": 371400,
+        "Probability": 60
+      },
+      {
+        "TradeId": 312,
+        "AmountToBeEarned": 5100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 338,
+        "AmountToBeEarned": 173200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 361,
+        "AmountToBeEarned": 34500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 363,
+        "AmountToBeEarned": 233100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 365,
+        "AmountToBeEarned": 253900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 371,
+        "AmountToBeEarned": 33600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 373,
+        "AmountToBeEarned": 30000,
+        "Probability": 80
+      },
+      {
+        "TradeId": 375,
+        "AmountToBeEarned": 204500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 378,
+        "AmountToBeEarned": 353400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 390,
+        "AmountToBeEarned": 107500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 423,
+        "AmountToBeEarned": 444800,
+        "Probability": 15
+      },
+      {
+        "TradeId": 431,
+        "AmountToBeEarned": 168200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 435,
+        "AmountToBeEarned": 273500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 437,
+        "AmountToBeEarned": 285900,
+        "Probability": 70
+      },
+      {
+        "TradeId": 452,
+        "AmountToBeEarned": 428800,
+        "Probability": 70
+      },
+      {
+        "TradeId": 460,
+        "AmountToBeEarned": 73500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 462,
+        "AmountToBeEarned": 442400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 475,
+        "AmountToBeEarned": 289600,
+        "Probability": 80
+      },
+      {
+        "TradeId": 484,
+        "AmountToBeEarned": 340200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 485,
+        "AmountToBeEarned": 286300,
+        "Probability": 15
+      },
+      {
+        "TradeId": 488,
+        "AmountToBeEarned": 250200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 490,
+        "AmountToBeEarned": 307600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 491,
+        "AmountToBeEarned": 150600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 498,
+        "AmountToBeEarned": 209100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 568,
+        "AmountToBeEarned": 73700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 585,
+        "AmountToBeEarned": 76900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 587,
+        "AmountToBeEarned": 95200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 609,
+        "AmountToBeEarned": 392600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 623,
+        "AmountToBeEarned": 323500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 635,
+        "AmountToBeEarned": 126400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 669,
+        "AmountToBeEarned": 26600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 685,
+        "AmountToBeEarned": 304600,
+        "Probability": 85
+      },
+      {
+        "TradeId": 700,
+        "AmountToBeEarned": 381800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 701,
+        "AmountToBeEarned": 405100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 713,
+        "AmountToBeEarned": 446000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 748,
+        "AmountToBeEarned": 137200,
+        "Probability": 15
+      },
+      {
+        "TradeId": 762,
+        "AmountToBeEarned": 359300,
+        "Probability": 40
+      },
+      {
+        "TradeId": 774,
+        "AmountToBeEarned": 69800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 776,
+        "AmountToBeEarned": 216000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 795,
+        "AmountToBeEarned": 376500,
+        "Probability": 85
+      },
+      {
+        "TradeId": 803,
+        "AmountToBeEarned": 26800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 805,
+        "AmountToBeEarned": 491500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 815,
+        "AmountToBeEarned": 156800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 822,
+        "AmountToBeEarned": 322800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 829,
+        "AmountToBeEarned": 106300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 831,
+        "AmountToBeEarned": 436500,
+        "Probability": 90
+      },
+      {
+        "TradeId": 832,
+        "AmountToBeEarned": 169200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 833,
+        "AmountToBeEarned": 340100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 840,
+        "AmountToBeEarned": 333000,
+        "Probability": 60
+      },
+      {
+        "TradeId": 846,
+        "AmountToBeEarned": 477800,
+        "Probability": 90
+      },
+      {
+        "TradeId": 848,
+        "AmountToBeEarned": 350000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 859,
+        "AmountToBeEarned": 188500,
+        "Probability": 15
+      },
+      {
+        "TradeId": 867,
+        "AmountToBeEarned": 203100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 876,
+        "AmountToBeEarned": 32800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 882,
+        "AmountToBeEarned": 172500,
+        "Probability": 15
+      },
+      {
+        "TradeId": 895,
+        "AmountToBeEarned": 435200,
+        "Probability": 80
+      },
+      {
+        "TradeId": 899,
+        "AmountToBeEarned": 352000,
+        "Probability": 85
+      },
+      {
+        "TradeId": 901,
+        "AmountToBeEarned": 190100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 916,
+        "AmountToBeEarned": 96100,
+        "Probability": 80
+      },
+      {
+        "TradeId": 921,
+        "AmountToBeEarned": 160000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 930,
+        "AmountToBeEarned": 28400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 932,
+        "AmountToBeEarned": 97100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 934,
+        "AmountToBeEarned": 130800,
+        "Probability": 90
+      },
+      {
+        "TradeId": 958,
+        "AmountToBeEarned": 420400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 962,
+        "AmountToBeEarned": 284700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 966,
+        "AmountToBeEarned": 346100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 999,
+        "AmountToBeEarned": 465500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1018,
+        "AmountToBeEarned": 262400,
+        "Probability": 90
+      },
+      {
+        "TradeId": 1023,
+        "AmountToBeEarned": 187300,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1027,
+        "AmountToBeEarned": 145300,
+        "Probability": 40
+      },
+      {
+        "TradeId": 1044,
+        "AmountToBeEarned": 169900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1050,
+        "AmountToBeEarned": 192500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1068,
+        "AmountToBeEarned": 117100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1083,
+        "AmountToBeEarned": 290400,
+        "Probability": 100
+      }
+    ],
+    "TotalTradeAmount": 21107200,
+    "AverageProbability": 66.46067415730337,
+    "DealCount": 89,
+    "AverageAmountPerDeal": 237159.55056179775280898876404
+  },
+  {
+    "Id": 44,
+    "FullName": "Mgr. Eva \u0160tikov\u00E1",
+    "FirstName": "Eva",
+    "LastName": "\u0160tikov\u00E1",
+    "Email": "eva.stikova@raynet.cz",
+    "Gender": "FEMALE",
+    "SourceBusinessCases": [
+      106,
+      108,
+      124,
+      140,
+      151,
+      181,
+      182,
+      195,
+      200,
+      207,
+      210,
+      219,
+      267,
+      279,
+      292,
+      294,
+      319,
+      328,
+      331,
+      344,
+      357,
+      366,
+      370,
+      380,
+      386,
+      408,
+      411,
+      417,
+      418,
+      432,
+      463,
+      470,
+      477,
+      479,
+      483,
+      487,
+      512,
+      535,
+      554,
+      557,
+      558,
+      561,
+      577,
+      581,
+      583,
+      590,
+      594,
+      618,
+      656,
+      676,
+      684,
+      692,
+      699,
+      704,
+      727,
+      735,
+      739,
+      740,
+      755,
+      766,
+      779,
+      789,
+      794,
+      808,
+      839,
+      842,
+      861,
+      883,
+      887,
+      914,
+      919,
+      927,
+      945,
+      955,
+      959,
+      977,
+      983,
+      990,
+      997,
+      1005,
+      1010,
+      1022,
+      1029,
+      1030,
+      1058,
+      1074
+    ],
+    "Deals": [
+      {
+        "TradeId": 106,
+        "AmountToBeEarned": 11000,
+        "Probability": 60
+      },
+      {
+        "TradeId": 108,
+        "AmountToBeEarned": 89900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 124,
+        "AmountToBeEarned": 214100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 140,
+        "AmountToBeEarned": 80400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 151,
+        "AmountToBeEarned": 143800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 181,
+        "AmountToBeEarned": 289300,
+        "Probability": 60
+      },
+      {
+        "TradeId": 182,
+        "AmountToBeEarned": 107800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 195,
+        "AmountToBeEarned": 132300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 200,
+        "AmountToBeEarned": 428000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 207,
+        "AmountToBeEarned": 93800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 210,
+        "AmountToBeEarned": 93400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 219,
+        "AmountToBeEarned": 359400,
+        "Probability": 60
+      },
+      {
+        "TradeId": 267,
+        "AmountToBeEarned": 86100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 279,
+        "AmountToBeEarned": 10600,
+        "Probability": 20
+      },
+      {
+        "TradeId": 292,
+        "AmountToBeEarned": 30700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 294,
+        "AmountToBeEarned": 11600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 319,
+        "AmountToBeEarned": 157900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 328,
+        "AmountToBeEarned": 141400,
+        "Probability": 80
+      },
+      {
+        "TradeId": 331,
+        "AmountToBeEarned": 103400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 344,
+        "AmountToBeEarned": 170400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 357,
+        "AmountToBeEarned": 12200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 366,
+        "AmountToBeEarned": 24300,
+        "Probability": 80
+      },
+      {
+        "TradeId": 370,
+        "AmountToBeEarned": 21400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 380,
+        "AmountToBeEarned": 336900,
+        "Probability": 20
+      },
+      {
+        "TradeId": 386,
+        "AmountToBeEarned": 27400,
+        "Probability": 75
+      },
+      {
+        "TradeId": 408,
+        "AmountToBeEarned": 415100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 411,
+        "AmountToBeEarned": 101100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 417,
+        "AmountToBeEarned": 424900,
+        "Probability": 15
+      },
+      {
+        "TradeId": 418,
+        "AmountToBeEarned": 93000,
+        "Probability": 75
+      },
+      {
+        "TradeId": 432,
+        "AmountToBeEarned": 98400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 463,
+        "AmountToBeEarned": 285100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 470,
+        "AmountToBeEarned": 446800,
+        "Probability": 85
+      },
+      {
+        "TradeId": 477,
+        "AmountToBeEarned": 305500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 479,
+        "AmountToBeEarned": 122000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 483,
+        "AmountToBeEarned": 24500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 487,
+        "AmountToBeEarned": 117500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 512,
+        "AmountToBeEarned": 53100,
+        "Probability": 85
+      },
+      {
+        "TradeId": 535,
+        "AmountToBeEarned": 160300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 554,
+        "AmountToBeEarned": 48100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 557,
+        "AmountToBeEarned": 122600,
+        "Probability": 60
+      },
+      {
+        "TradeId": 558,
+        "AmountToBeEarned": 491600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 561,
+        "AmountToBeEarned": 339000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 577,
+        "AmountToBeEarned": 497300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 581,
+        "AmountToBeEarned": 177900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 583,
+        "AmountToBeEarned": 468200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 590,
+        "AmountToBeEarned": 232500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 594,
+        "AmountToBeEarned": 39600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 618,
+        "AmountToBeEarned": 174300,
+        "Probability": 25
+      },
+      {
+        "TradeId": 656,
+        "AmountToBeEarned": 326900,
+        "Probability": 20
+      },
+      {
+        "TradeId": 676,
+        "AmountToBeEarned": 122500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 684,
+        "AmountToBeEarned": 248800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 692,
+        "AmountToBeEarned": 382100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 699,
+        "AmountToBeEarned": 207800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 704,
+        "AmountToBeEarned": 11200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 727,
+        "AmountToBeEarned": 420400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 735,
+        "AmountToBeEarned": 46200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 739,
+        "AmountToBeEarned": 484500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 740,
+        "AmountToBeEarned": 499100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 755,
+        "AmountToBeEarned": 125100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 766,
+        "AmountToBeEarned": 20500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 779,
+        "AmountToBeEarned": 56800,
+        "Probability": 75
+      },
+      {
+        "TradeId": 789,
+        "AmountToBeEarned": 92000,
+        "Probability": 40
+      },
+      {
+        "TradeId": 794,
+        "AmountToBeEarned": 36000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 808,
+        "AmountToBeEarned": 55400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 839,
+        "AmountToBeEarned": 182700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 842,
+        "AmountToBeEarned": 13600,
+        "Probability": 50
+      },
+      {
+        "TradeId": 861,
+        "AmountToBeEarned": 48900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 883,
+        "AmountToBeEarned": 298900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 887,
+        "AmountToBeEarned": 420300,
+        "Probability": 10
+      },
+      {
+        "TradeId": 914,
+        "AmountToBeEarned": 160600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 919,
+        "AmountToBeEarned": 330200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 927,
+        "AmountToBeEarned": 84600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 945,
+        "AmountToBeEarned": 469700,
+        "Probability": 90
+      },
+      {
+        "TradeId": 955,
+        "AmountToBeEarned": 192300,
+        "Probability": 90
+      },
+      {
+        "TradeId": 959,
+        "AmountToBeEarned": 173600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 977,
+        "AmountToBeEarned": 116400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 983,
+        "AmountToBeEarned": 494700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 990,
+        "AmountToBeEarned": 183400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 997,
+        "AmountToBeEarned": 239100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1005,
+        "AmountToBeEarned": 372200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1010,
+        "AmountToBeEarned": 26100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1022,
+        "AmountToBeEarned": 379900,
+        "Probability": 80
+      },
+      {
+        "TradeId": 1029,
+        "AmountToBeEarned": 466000,
+        "Probability": 10
+      },
+      {
+        "TradeId": 1030,
+        "AmountToBeEarned": 29600,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1058,
+        "AmountToBeEarned": 128500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1074,
+        "AmountToBeEarned": 3700,
+        "Probability": 60
+      }
+    ],
+    "TotalTradeAmount": 16366200,
+    "AverageProbability": 59.76744186046512,
+    "DealCount": 86,
+    "AverageAmountPerDeal": 190304.65116279069767441860465
+  },
+  {
+    "Id": 31,
+    "FullName": "Radim Rejnok",
+    "FirstName": "Radim",
+    "LastName": "Rejnok",
+    "Email": "radim.rejnok@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      110,
+      112,
+      117,
+      141,
+      178,
+      193,
+      198,
+      201,
+      202,
+      208,
+      213,
+      235,
+      250,
+      283,
+      290,
+      300,
+      301,
+      306,
+      307,
+      330,
+      336,
+      342,
+      348,
+      352,
+      355,
+      358,
+      379,
+      401,
+      415,
+      421,
+      448,
+      454,
+      457,
+      465,
+      478,
+      489,
+      492,
+      497,
+      530,
+      531,
+      539,
+      560,
+      573,
+      576,
+      579,
+      584,
+      588,
+      595,
+      596,
+      608,
+      617,
+      625,
+      626,
+      627,
+      636,
+      642,
+      651,
+      655,
+      678,
+      705,
+      712,
+      723,
+      741,
+      745,
+      760,
+      761,
+      769,
+      771,
+      792,
+      797,
+      807,
+      813,
+      843,
+      844,
+      854,
+      865,
+      907,
+      912,
+      924,
+      928,
+      947,
+      978,
+      1004,
+      1032,
+      1035,
+      1036,
+      1046,
+      1061,
+      1064,
+      1065,
+      1089,
+      1097
+    ],
+    "Deals": [
+      {
+        "TradeId": 110,
+        "AmountToBeEarned": 23900,
+        "Probability": 25
+      },
+      {
+        "TradeId": 112,
+        "AmountToBeEarned": 321700,
+        "Probability": 10
+      },
+      {
+        "TradeId": 117,
+        "AmountToBeEarned": 83100,
+        "Probability": 70
+      },
+      {
+        "TradeId": 141,
+        "AmountToBeEarned": 86000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 178,
+        "AmountToBeEarned": 300600,
+        "Probability": 40
+      },
+      {
+        "TradeId": 193,
+        "AmountToBeEarned": 164200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 198,
+        "AmountToBeEarned": 152700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 201,
+        "AmountToBeEarned": 27700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 202,
+        "AmountToBeEarned": 76800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 208,
+        "AmountToBeEarned": 394400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 213,
+        "AmountToBeEarned": 1800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 235,
+        "AmountToBeEarned": 317400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 250,
+        "AmountToBeEarned": 363800,
+        "Probability": 90
+      },
+      {
+        "TradeId": 283,
+        "AmountToBeEarned": 146300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 290,
+        "AmountToBeEarned": 298100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 300,
+        "AmountToBeEarned": 285300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 301,
+        "AmountToBeEarned": 290900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 306,
+        "AmountToBeEarned": 305500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 307,
+        "AmountToBeEarned": 110800,
+        "Probability": 85
+      },
+      {
+        "TradeId": 330,
+        "AmountToBeEarned": 418400,
+        "Probability": 60
+      },
+      {
+        "TradeId": 336,
+        "AmountToBeEarned": 498800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 342,
+        "AmountToBeEarned": 121600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 348,
+        "AmountToBeEarned": 461300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 352,
+        "AmountToBeEarned": 200000,
+        "Probability": 10
+      },
+      {
+        "TradeId": 355,
+        "AmountToBeEarned": 166800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 358,
+        "AmountToBeEarned": 332000,
+        "Probability": 85
+      },
+      {
+        "TradeId": 379,
+        "AmountToBeEarned": 450600,
+        "Probability": 10
+      },
+      {
+        "TradeId": 401,
+        "AmountToBeEarned": 130400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 415,
+        "AmountToBeEarned": 227000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 421,
+        "AmountToBeEarned": 100300,
+        "Probability": 25
+      },
+      {
+        "TradeId": 448,
+        "AmountToBeEarned": 271200,
+        "Probability": 10
+      },
+      {
+        "TradeId": 454,
+        "AmountToBeEarned": 27200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 457,
+        "AmountToBeEarned": 35600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 465,
+        "AmountToBeEarned": 243400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 478,
+        "AmountToBeEarned": 114500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 489,
+        "AmountToBeEarned": 900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 492,
+        "AmountToBeEarned": 281900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 497,
+        "AmountToBeEarned": 390100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 530,
+        "AmountToBeEarned": 155400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 531,
+        "AmountToBeEarned": 98900,
+        "Probability": 20
+      },
+      {
+        "TradeId": 539,
+        "AmountToBeEarned": 14500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 560,
+        "AmountToBeEarned": 165800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 573,
+        "AmountToBeEarned": 50600,
+        "Probability": 85
+      },
+      {
+        "TradeId": 576,
+        "AmountToBeEarned": 65300,
+        "Probability": 40
+      },
+      {
+        "TradeId": 579,
+        "AmountToBeEarned": 122400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 584,
+        "AmountToBeEarned": 261800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 588,
+        "AmountToBeEarned": 246300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 595,
+        "AmountToBeEarned": 189500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 596,
+        "AmountToBeEarned": 288200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 608,
+        "AmountToBeEarned": 23600,
+        "Probability": 15
+      },
+      {
+        "TradeId": 617,
+        "AmountToBeEarned": 6400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 625,
+        "AmountToBeEarned": 420200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 626,
+        "AmountToBeEarned": 485200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 627,
+        "AmountToBeEarned": 212000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 636,
+        "AmountToBeEarned": 385500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 642,
+        "AmountToBeEarned": 244500,
+        "Probability": 80
+      },
+      {
+        "TradeId": 651,
+        "AmountToBeEarned": 425800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 655,
+        "AmountToBeEarned": 38100,
+        "Probability": 75
+      },
+      {
+        "TradeId": 678,
+        "AmountToBeEarned": 480100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 705,
+        "AmountToBeEarned": 187500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 712,
+        "AmountToBeEarned": 489100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 723,
+        "AmountToBeEarned": 418000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 741,
+        "AmountToBeEarned": 478700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 745,
+        "AmountToBeEarned": 108400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 760,
+        "AmountToBeEarned": 40200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 761,
+        "AmountToBeEarned": 299800,
+        "Probability": 80
+      },
+      {
+        "TradeId": 769,
+        "AmountToBeEarned": 158100,
+        "Probability": 80
+      },
+      {
+        "TradeId": 771,
+        "AmountToBeEarned": 378000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 792,
+        "AmountToBeEarned": 205200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 797,
+        "AmountToBeEarned": 1100,
+        "Probability": 90
+      },
+      {
+        "TradeId": 807,
+        "AmountToBeEarned": 212800,
+        "Probability": 75
+      },
+      {
+        "TradeId": 813,
+        "AmountToBeEarned": 265800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 843,
+        "AmountToBeEarned": 20500,
+        "Probability": 40
+      },
+      {
+        "TradeId": 844,
+        "AmountToBeEarned": 129800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 854,
+        "AmountToBeEarned": 471400,
+        "Probability": 85
+      },
+      {
+        "TradeId": 865,
+        "AmountToBeEarned": 6300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 907,
+        "AmountToBeEarned": 220500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 912,
+        "AmountToBeEarned": 209100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 924,
+        "AmountToBeEarned": 206500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 928,
+        "AmountToBeEarned": 264100,
+        "Probability": 15
+      },
+      {
+        "TradeId": 947,
+        "AmountToBeEarned": 182500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 978,
+        "AmountToBeEarned": 78100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1004,
+        "AmountToBeEarned": 7200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1032,
+        "AmountToBeEarned": 92700,
+        "Probability": 70
+      },
+      {
+        "TradeId": 1035,
+        "AmountToBeEarned": 304800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1036,
+        "AmountToBeEarned": 135200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 1046,
+        "AmountToBeEarned": 402200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1061,
+        "AmountToBeEarned": 384700,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1064,
+        "AmountToBeEarned": 367800,
+        "Probability": 90
+      },
+      {
+        "TradeId": 1065,
+        "AmountToBeEarned": 15400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 1089,
+        "AmountToBeEarned": 27600,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1097,
+        "AmountToBeEarned": 155300,
+        "Probability": 60
+      }
+    ],
+    "TotalTradeAmount": 19527500,
+    "AverageProbability": 63.369565217391305,
+    "DealCount": 92,
+    "AverageAmountPerDeal": 212255.43478260869565217391304
+  },
+  {
+    "Id": 29,
+    "FullName": "Romana Kaprov\u00E1",
+    "FirstName": "Romana",
+    "LastName": "Kaprov\u00E1",
+    "Email": "romana.kaprova@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      111,
+      118,
+      136,
+      137,
+      146,
+      147,
+      158,
+      160,
+      162,
+      176,
+      179,
+      199,
+      203,
+      205,
+      223,
+      261,
+      262,
+      263,
+      268,
+      299,
+      335,
+      340,
+      341,
+      353,
+      405,
+      406,
+      420,
+      424,
+      430,
+      445,
+      447,
+      451,
+      464,
+      515,
+      519,
+      525,
+      537,
+      562,
+      563,
+      569,
+      575,
+      578,
+      602,
+      611,
+      629,
+      638,
+      639,
+      657,
+      660,
+      662,
+      670,
+      675,
+      682,
+      688,
+      696,
+      698,
+      702,
+      734,
+      777,
+      780,
+      798,
+      828,
+      835,
+      866,
+      878,
+      886,
+      891,
+      896,
+      904,
+      923,
+      946,
+      963,
+      970,
+      995,
+      1002,
+      1015,
+      1028,
+      1039,
+      1041,
+      1052,
+      1062,
+      1066
+    ],
+    "Deals": [
+      {
+        "TradeId": 111,
+        "AmountToBeEarned": 443900,
+        "Probability": 80
+      },
+      {
+        "TradeId": 118,
+        "AmountToBeEarned": 255800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 136,
+        "AmountToBeEarned": 63000,
+        "Probability": 70
+      },
+      {
+        "TradeId": 137,
+        "AmountToBeEarned": 211700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 146,
+        "AmountToBeEarned": 83000,
+        "Probability": 90
+      },
+      {
+        "TradeId": 147,
+        "AmountToBeEarned": 289400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 158,
+        "AmountToBeEarned": 112600,
+        "Probability": 70
+      },
+      {
+        "TradeId": 160,
+        "AmountToBeEarned": 390700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 162,
+        "AmountToBeEarned": 412100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 176,
+        "AmountToBeEarned": 70300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 179,
+        "AmountToBeEarned": 255000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 199,
+        "AmountToBeEarned": 271700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 203,
+        "AmountToBeEarned": 391200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 205,
+        "AmountToBeEarned": 394700,
+        "Probability": 50
+      },
+      {
+        "TradeId": 223,
+        "AmountToBeEarned": 278200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 261,
+        "AmountToBeEarned": 450500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 262,
+        "AmountToBeEarned": 142800,
+        "Probability": 70
+      },
+      {
+        "TradeId": 263,
+        "AmountToBeEarned": 96200,
+        "Probability": 80
+      },
+      {
+        "TradeId": 268,
+        "AmountToBeEarned": 154500,
+        "Probability": 20
+      },
+      {
+        "TradeId": 299,
+        "AmountToBeEarned": 126900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 335,
+        "AmountToBeEarned": 183900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 340,
+        "AmountToBeEarned": 471900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 341,
+        "AmountToBeEarned": 364900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 353,
+        "AmountToBeEarned": 6100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 405,
+        "AmountToBeEarned": 81100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 406,
+        "AmountToBeEarned": 408100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 420,
+        "AmountToBeEarned": 242800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 424,
+        "AmountToBeEarned": 350300,
+        "Probability": 50
+      },
+      {
+        "TradeId": 430,
+        "AmountToBeEarned": 58000,
+        "Probability": 40
+      },
+      {
+        "TradeId": 445,
+        "AmountToBeEarned": 494000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 447,
+        "AmountToBeEarned": 38000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 451,
+        "AmountToBeEarned": 47600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 464,
+        "AmountToBeEarned": 100500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 515,
+        "AmountToBeEarned": 447100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 519,
+        "AmountToBeEarned": 289000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 525,
+        "AmountToBeEarned": 484900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 537,
+        "AmountToBeEarned": 158600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 562,
+        "AmountToBeEarned": 118100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 563,
+        "AmountToBeEarned": 137200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 569,
+        "AmountToBeEarned": 175100,
+        "Probability": 80
+      },
+      {
+        "TradeId": 575,
+        "AmountToBeEarned": 479600,
+        "Probability": 25
+      },
+      {
+        "TradeId": 578,
+        "AmountToBeEarned": 145500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 602,
+        "AmountToBeEarned": 463000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 611,
+        "AmountToBeEarned": 363300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 629,
+        "AmountToBeEarned": 68900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 638,
+        "AmountToBeEarned": 39400,
+        "Probability": 30
+      },
+      {
+        "TradeId": 639,
+        "AmountToBeEarned": 89900,
+        "Probability": 15
+      },
+      {
+        "TradeId": 657,
+        "AmountToBeEarned": 424500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 660,
+        "AmountToBeEarned": 375700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 662,
+        "AmountToBeEarned": 180200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 670,
+        "AmountToBeEarned": 298800,
+        "Probability": 80
+      },
+      {
+        "TradeId": 675,
+        "AmountToBeEarned": 429400,
+        "Probability": 90
+      },
+      {
+        "TradeId": 682,
+        "AmountToBeEarned": 410500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 688,
+        "AmountToBeEarned": 86800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 696,
+        "AmountToBeEarned": 115900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 698,
+        "AmountToBeEarned": 139800,
+        "Probability": 50
+      },
+      {
+        "TradeId": 702,
+        "AmountToBeEarned": 215000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 734,
+        "AmountToBeEarned": 305400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 777,
+        "AmountToBeEarned": 26000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 780,
+        "AmountToBeEarned": 284000,
+        "Probability": 25
+      },
+      {
+        "TradeId": 798,
+        "AmountToBeEarned": 438400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 828,
+        "AmountToBeEarned": 78900,
+        "Probability": 70
+      },
+      {
+        "TradeId": 835,
+        "AmountToBeEarned": 495500,
+        "Probability": 70
+      },
+      {
+        "TradeId": 866,
+        "AmountToBeEarned": 419000,
+        "Probability": 90
+      },
+      {
+        "TradeId": 878,
+        "AmountToBeEarned": 254500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 886,
+        "AmountToBeEarned": 361100,
+        "Probability": 40
+      },
+      {
+        "TradeId": 891,
+        "AmountToBeEarned": 15500,
+        "Probability": 75
+      },
+      {
+        "TradeId": 896,
+        "AmountToBeEarned": 246700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 904,
+        "AmountToBeEarned": 53600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 923,
+        "AmountToBeEarned": 240800,
+        "Probability": 40
+      },
+      {
+        "TradeId": 946,
+        "AmountToBeEarned": 139200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 963,
+        "AmountToBeEarned": 238100,
+        "Probability": 15
+      },
+      {
+        "TradeId": 970,
+        "AmountToBeEarned": 407500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 995,
+        "AmountToBeEarned": 97700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1002,
+        "AmountToBeEarned": 42000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1015,
+        "AmountToBeEarned": 498500,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1028,
+        "AmountToBeEarned": 217900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1039,
+        "AmountToBeEarned": 487600,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1041,
+        "AmountToBeEarned": 463100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1052,
+        "AmountToBeEarned": 482300,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1062,
+        "AmountToBeEarned": 297200,
+        "Probability": 70
+      },
+      {
+        "TradeId": 1066,
+        "AmountToBeEarned": 56100,
+        "Probability": 50
+      }
+    ],
+    "TotalTradeAmount": 20524200,
+    "AverageProbability": 68.47560975609755,
+    "DealCount": 82,
+    "AverageAmountPerDeal": 250295.12195121951219512195122
+  },
+  {
+    "Id": 41,
+    "FullName": "Ing. Martin Sumec",
+    "FirstName": "Martin",
+    "LastName": "Sumec",
+    "Email": "martin.sumec@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      113,
+      115,
+      143,
+      168,
+      186,
+      189,
+      190,
+      206,
+      209,
+      224,
+      230,
+      238,
+      243,
+      257,
+      260,
+      271,
+      273,
+      277,
+      280,
+      308,
+      354,
+      372,
+      396,
+      407,
+      434,
+      439,
+      441,
+      446,
+      455,
+      482,
+      496,
+      500,
+      504,
+      510,
+      522,
+      527,
+      532,
+      545,
+      546,
+      551,
+      552,
+      572,
+      586,
+      601,
+      613,
+      624,
+      637,
+      663,
+      673,
+      680,
+      683,
+      689,
+      703,
+      717,
+      730,
+      736,
+      743,
+      752,
+      759,
+      763,
+      764,
+      767,
+      782,
+      790,
+      816,
+      868,
+      870,
+      872,
+      874,
+      888,
+      905,
+      915,
+      918,
+      937,
+      943,
+      949,
+      967,
+      989,
+      994,
+      1001,
+      1025,
+      1084,
+      1087
+    ],
+    "Deals": [
+      {
+        "TradeId": 113,
+        "AmountToBeEarned": 326900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 115,
+        "AmountToBeEarned": 208500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 143,
+        "AmountToBeEarned": 377600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 168,
+        "AmountToBeEarned": 390000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 186,
+        "AmountToBeEarned": 10600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 189,
+        "AmountToBeEarned": 30900,
+        "Probability": 25
+      },
+      {
+        "TradeId": 190,
+        "AmountToBeEarned": 50100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 206,
+        "AmountToBeEarned": 340300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 209,
+        "AmountToBeEarned": 292500,
+        "Probability": 25
+      },
+      {
+        "TradeId": 224,
+        "AmountToBeEarned": 394900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 230,
+        "AmountToBeEarned": 479000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 238,
+        "AmountToBeEarned": 293100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 243,
+        "AmountToBeEarned": 260400,
+        "Probability": 85
+      },
+      {
+        "TradeId": 257,
+        "AmountToBeEarned": 386800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 260,
+        "AmountToBeEarned": 180000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 271,
+        "AmountToBeEarned": 283200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 273,
+        "AmountToBeEarned": 32600,
+        "Probability": 15
+      },
+      {
+        "TradeId": 277,
+        "AmountToBeEarned": 124600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 280,
+        "AmountToBeEarned": 9500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 308,
+        "AmountToBeEarned": 483400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 354,
+        "AmountToBeEarned": 298200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 372,
+        "AmountToBeEarned": 183200,
+        "Probability": 10
+      },
+      {
+        "TradeId": 396,
+        "AmountToBeEarned": 476500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 407,
+        "AmountToBeEarned": 311900,
+        "Probability": 85
+      },
+      {
+        "TradeId": 434,
+        "AmountToBeEarned": 96300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 439,
+        "AmountToBeEarned": 170800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 441,
+        "AmountToBeEarned": 62700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 446,
+        "AmountToBeEarned": 72900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 455,
+        "AmountToBeEarned": 14800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 482,
+        "AmountToBeEarned": 49300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 496,
+        "AmountToBeEarned": 87500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 500,
+        "AmountToBeEarned": 151600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 504,
+        "AmountToBeEarned": 244300,
+        "Probability": 60
+      },
+      {
+        "TradeId": 510,
+        "AmountToBeEarned": 176300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 522,
+        "AmountToBeEarned": 52700,
+        "Probability": 15
+      },
+      {
+        "TradeId": 527,
+        "AmountToBeEarned": 7600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 532,
+        "AmountToBeEarned": 128800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 545,
+        "AmountToBeEarned": 291400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 546,
+        "AmountToBeEarned": 148200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 551,
+        "AmountToBeEarned": 6700,
+        "Probability": 40
+      },
+      {
+        "TradeId": 552,
+        "AmountToBeEarned": 68000,
+        "Probability": 10
+      },
+      {
+        "TradeId": 572,
+        "AmountToBeEarned": 1000,
+        "Probability": 30
+      },
+      {
+        "TradeId": 586,
+        "AmountToBeEarned": 162400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 601,
+        "AmountToBeEarned": 355900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 613,
+        "AmountToBeEarned": 128900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 624,
+        "AmountToBeEarned": 209600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 637,
+        "AmountToBeEarned": 346800,
+        "Probability": 40
+      },
+      {
+        "TradeId": 663,
+        "AmountToBeEarned": 187400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 673,
+        "AmountToBeEarned": 429400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 680,
+        "AmountToBeEarned": 488200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 683,
+        "AmountToBeEarned": 312400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 689,
+        "AmountToBeEarned": 489700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 703,
+        "AmountToBeEarned": 353100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 717,
+        "AmountToBeEarned": 27000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 730,
+        "AmountToBeEarned": 237500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 736,
+        "AmountToBeEarned": 153900,
+        "Probability": 40
+      },
+      {
+        "TradeId": 743,
+        "AmountToBeEarned": 230700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 752,
+        "AmountToBeEarned": 191800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 759,
+        "AmountToBeEarned": 235800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 763,
+        "AmountToBeEarned": 63500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 764,
+        "AmountToBeEarned": 477900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 767,
+        "AmountToBeEarned": 79300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 782,
+        "AmountToBeEarned": 261900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 790,
+        "AmountToBeEarned": 372100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 816,
+        "AmountToBeEarned": 203200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 868,
+        "AmountToBeEarned": 38100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 870,
+        "AmountToBeEarned": 10700,
+        "Probability": 75
+      },
+      {
+        "TradeId": 872,
+        "AmountToBeEarned": 387200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 874,
+        "AmountToBeEarned": 119700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 888,
+        "AmountToBeEarned": 342300,
+        "Probability": 75
+      },
+      {
+        "TradeId": 905,
+        "AmountToBeEarned": 144600,
+        "Probability": 20
+      },
+      {
+        "TradeId": 915,
+        "AmountToBeEarned": 106900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 918,
+        "AmountToBeEarned": 244900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 937,
+        "AmountToBeEarned": 402500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 943,
+        "AmountToBeEarned": 328800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 949,
+        "AmountToBeEarned": 374400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 967,
+        "AmountToBeEarned": 351800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 989,
+        "AmountToBeEarned": 101200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 994,
+        "AmountToBeEarned": 348200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 1001,
+        "AmountToBeEarned": 366800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 1025,
+        "AmountToBeEarned": 345300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1084,
+        "AmountToBeEarned": 37400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1087,
+        "AmountToBeEarned": 9400,
+        "Probability": 75
+      }
+    ],
+    "TotalTradeAmount": 18114200,
+    "AverageProbability": 65.5421686746988,
+    "DealCount": 83,
+    "AverageAmountPerDeal": 218243.37349397590361445783133
+  },
+  {
+    "Id": 43,
+    "FullName": "Tom\u00E1\u0161 Cand\u00E1t",
+    "FirstName": "Tom\u00E1\u0161",
+    "LastName": "Cand\u00E1t",
+    "Email": "tomas.candat@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      114,
+      126,
+      139,
+      167,
+      169,
+      187,
+      188,
+      214,
+      215,
+      227,
+      255,
+      318,
+      333,
+      347,
+      349,
+      381,
+      392,
+      404,
+      412,
+      416,
+      419,
+      436,
+      449,
+      466,
+      476,
+      480,
+      502,
+      503,
+      511,
+      514,
+      526,
+      534,
+      565,
+      570,
+      571,
+      574,
+      603,
+      614,
+      622,
+      645,
+      659,
+      690,
+      714,
+      722,
+      724,
+      729,
+      731,
+      775,
+      781,
+      784,
+      785,
+      796,
+      810,
+      841,
+      853,
+      855,
+      885,
+      906,
+      908,
+      944,
+      948,
+      953,
+      960,
+      979,
+      982,
+      1000,
+      1012,
+      1026,
+      1031,
+      1053,
+      1076
+    ],
+    "Deals": [
+      {
+        "TradeId": 114,
+        "AmountToBeEarned": 286400,
+        "Probability": 20
+      },
+      {
+        "TradeId": 126,
+        "AmountToBeEarned": 164100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 139,
+        "AmountToBeEarned": 134300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 167,
+        "AmountToBeEarned": 259300,
+        "Probability": 10
+      },
+      {
+        "TradeId": 169,
+        "AmountToBeEarned": 53500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 187,
+        "AmountToBeEarned": 108700,
+        "Probability": 25
+      },
+      {
+        "TradeId": 188,
+        "AmountToBeEarned": 211000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 214,
+        "AmountToBeEarned": 450300,
+        "Probability": 10
+      },
+      {
+        "TradeId": 215,
+        "AmountToBeEarned": 17900,
+        "Probability": 70
+      },
+      {
+        "TradeId": 227,
+        "AmountToBeEarned": 312500,
+        "Probability": 10
+      },
+      {
+        "TradeId": 255,
+        "AmountToBeEarned": 431200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 318,
+        "AmountToBeEarned": 279900,
+        "Probability": 25
+      },
+      {
+        "TradeId": 333,
+        "AmountToBeEarned": 27000,
+        "Probability": 75
+      },
+      {
+        "TradeId": 347,
+        "AmountToBeEarned": 113600,
+        "Probability": 10
+      },
+      {
+        "TradeId": 349,
+        "AmountToBeEarned": 64000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 381,
+        "AmountToBeEarned": 57800,
+        "Probability": 10
+      },
+      {
+        "TradeId": 392,
+        "AmountToBeEarned": 206100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 404,
+        "AmountToBeEarned": 77400,
+        "Probability": 75
+      },
+      {
+        "TradeId": 412,
+        "AmountToBeEarned": 405300,
+        "Probability": 25
+      },
+      {
+        "TradeId": 416,
+        "AmountToBeEarned": 94800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 419,
+        "AmountToBeEarned": 294300,
+        "Probability": 40
+      },
+      {
+        "TradeId": 436,
+        "AmountToBeEarned": 118400,
+        "Probability": 10
+      },
+      {
+        "TradeId": 449,
+        "AmountToBeEarned": 115100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 466,
+        "AmountToBeEarned": 29000,
+        "Probability": 90
+      },
+      {
+        "TradeId": 476,
+        "AmountToBeEarned": 405700,
+        "Probability": 20
+      },
+      {
+        "TradeId": 480,
+        "AmountToBeEarned": 12600,
+        "Probability": 75
+      },
+      {
+        "TradeId": 502,
+        "AmountToBeEarned": 252800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 503,
+        "AmountToBeEarned": 39900,
+        "Probability": 60
+      },
+      {
+        "TradeId": 511,
+        "AmountToBeEarned": 82400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 514,
+        "AmountToBeEarned": 221900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 526,
+        "AmountToBeEarned": 71000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 534,
+        "AmountToBeEarned": 260800,
+        "Probability": 15
+      },
+      {
+        "TradeId": 565,
+        "AmountToBeEarned": 103500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 570,
+        "AmountToBeEarned": 40500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 571,
+        "AmountToBeEarned": 8300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 574,
+        "AmountToBeEarned": 26800,
+        "Probability": 50
+      },
+      {
+        "TradeId": 603,
+        "AmountToBeEarned": 325700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 614,
+        "AmountToBeEarned": 231600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 622,
+        "AmountToBeEarned": 236900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 645,
+        "AmountToBeEarned": 200,
+        "Probability": 15
+      },
+      {
+        "TradeId": 659,
+        "AmountToBeEarned": 355300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 690,
+        "AmountToBeEarned": 234300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 714,
+        "AmountToBeEarned": 207700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 722,
+        "AmountToBeEarned": 319500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 724,
+        "AmountToBeEarned": 322300,
+        "Probability": 70
+      },
+      {
+        "TradeId": 729,
+        "AmountToBeEarned": 442600,
+        "Probability": 40
+      },
+      {
+        "TradeId": 731,
+        "AmountToBeEarned": 110500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 775,
+        "AmountToBeEarned": 436900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 781,
+        "AmountToBeEarned": 55200,
+        "Probability": 60
+      },
+      {
+        "TradeId": 784,
+        "AmountToBeEarned": 73200,
+        "Probability": 75
+      },
+      {
+        "TradeId": 785,
+        "AmountToBeEarned": 137000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 796,
+        "AmountToBeEarned": 128500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 810,
+        "AmountToBeEarned": 73100,
+        "Probability": 15
+      },
+      {
+        "TradeId": 841,
+        "AmountToBeEarned": 133500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 853,
+        "AmountToBeEarned": 84100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 855,
+        "AmountToBeEarned": 451700,
+        "Probability": 80
+      },
+      {
+        "TradeId": 885,
+        "AmountToBeEarned": 413600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 906,
+        "AmountToBeEarned": 204000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 908,
+        "AmountToBeEarned": 121300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 944,
+        "AmountToBeEarned": 207900,
+        "Probability": 25
+      },
+      {
+        "TradeId": 948,
+        "AmountToBeEarned": 251200,
+        "Probability": 30
+      },
+      {
+        "TradeId": 953,
+        "AmountToBeEarned": 89500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 960,
+        "AmountToBeEarned": 482900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 979,
+        "AmountToBeEarned": 153800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 982,
+        "AmountToBeEarned": 296900,
+        "Probability": 15
+      },
+      {
+        "TradeId": 1000,
+        "AmountToBeEarned": 2800,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1012,
+        "AmountToBeEarned": 285800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1026,
+        "AmountToBeEarned": 83000,
+        "Probability": 75
+      },
+      {
+        "TradeId": 1031,
+        "AmountToBeEarned": 388200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 1053,
+        "AmountToBeEarned": 443800,
+        "Probability": 90
+      },
+      {
+        "TradeId": 1076,
+        "AmountToBeEarned": 127500,
+        "Probability": 100
+      }
+    ],
+    "TotalTradeAmount": 13750100,
+    "AverageProbability": 58.732394366197184,
+    "DealCount": 71,
+    "AverageAmountPerDeal": 193663.38028169014084507042254
+  },
+  {
+    "Id": 45,
+    "FullName": "Ond\u0159ej Pstruh",
+    "FirstName": "Ond\u0159ej",
+    "LastName": "Pstruh",
+    "Email": "ondrej.pstruh@raynet.cz",
+    "Gender": "MALE",
+    "SourceBusinessCases": [
+      120,
+      123,
+      133,
+      144,
+      150,
+      153,
+      155,
+      173,
+      180,
+      183,
+      204,
+      232,
+      234,
+      236,
+      240,
+      254,
+      274,
+      281,
+      289,
+      295,
+      315,
+      317,
+      323,
+      325,
+      334,
+      356,
+      362,
+      377,
+      387,
+      389,
+      395,
+      425,
+      442,
+      453,
+      459,
+      471,
+      472,
+      481,
+      501,
+      505,
+      524,
+      538,
+      547,
+      591,
+      600,
+      658,
+      661,
+      677,
+      679,
+      686,
+      687,
+      693,
+      695,
+      710,
+      718,
+      738,
+      744,
+      746,
+      772,
+      799,
+      820,
+      830,
+      863,
+      864,
+      877,
+      889,
+      892,
+      910,
+      956,
+      975,
+      980,
+      996,
+      1019,
+      1040,
+      1042,
+      1059,
+      1080,
+      1095
+    ],
+    "Deals": [
+      {
+        "TradeId": 120,
+        "AmountToBeEarned": 433000,
+        "Probability": 80
+      },
+      {
+        "TradeId": 123,
+        "AmountToBeEarned": 57100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 133,
+        "AmountToBeEarned": 43700,
+        "Probability": 10
+      },
+      {
+        "TradeId": 144,
+        "AmountToBeEarned": 257300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 150,
+        "AmountToBeEarned": 259200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 153,
+        "AmountToBeEarned": 493500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 155,
+        "AmountToBeEarned": 123800,
+        "Probability": 15
+      },
+      {
+        "TradeId": 173,
+        "AmountToBeEarned": 295500,
+        "Probability": 70
+      },
+      {
+        "TradeId": 180,
+        "AmountToBeEarned": 270400,
+        "Probability": 60
+      },
+      {
+        "TradeId": 183,
+        "AmountToBeEarned": 151300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 204,
+        "AmountToBeEarned": 313400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 232,
+        "AmountToBeEarned": 193900,
+        "Probability": 15
+      },
+      {
+        "TradeId": 234,
+        "AmountToBeEarned": 60400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 236,
+        "AmountToBeEarned": 16700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 240,
+        "AmountToBeEarned": 363700,
+        "Probability": 85
+      },
+      {
+        "TradeId": 254,
+        "AmountToBeEarned": 71000,
+        "Probability": 50
+      },
+      {
+        "TradeId": 274,
+        "AmountToBeEarned": 31600,
+        "Probability": 15
+      },
+      {
+        "TradeId": 281,
+        "AmountToBeEarned": 43200,
+        "Probability": 90
+      },
+      {
+        "TradeId": 289,
+        "AmountToBeEarned": 428800,
+        "Probability": 20
+      },
+      {
+        "TradeId": 295,
+        "AmountToBeEarned": 395200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 315,
+        "AmountToBeEarned": 187100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 317,
+        "AmountToBeEarned": 357200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 323,
+        "AmountToBeEarned": 387300,
+        "Probability": 85
+      },
+      {
+        "TradeId": 325,
+        "AmountToBeEarned": 327200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 334,
+        "AmountToBeEarned": 253400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 356,
+        "AmountToBeEarned": 293700,
+        "Probability": 30
+      },
+      {
+        "TradeId": 362,
+        "AmountToBeEarned": 273600,
+        "Probability": 90
+      },
+      {
+        "TradeId": 377,
+        "AmountToBeEarned": 305100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 387,
+        "AmountToBeEarned": 400000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 389,
+        "AmountToBeEarned": 292300,
+        "Probability": 20
+      },
+      {
+        "TradeId": 395,
+        "AmountToBeEarned": 194200,
+        "Probability": 40
+      },
+      {
+        "TradeId": 425,
+        "AmountToBeEarned": 487100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 442,
+        "AmountToBeEarned": 352000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 453,
+        "AmountToBeEarned": 469700,
+        "Probability": 50
+      },
+      {
+        "TradeId": 459,
+        "AmountToBeEarned": 89000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 471,
+        "AmountToBeEarned": 2300,
+        "Probability": 10
+      },
+      {
+        "TradeId": 472,
+        "AmountToBeEarned": 483100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 481,
+        "AmountToBeEarned": 120100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 501,
+        "AmountToBeEarned": 262000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 505,
+        "AmountToBeEarned": 476200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 524,
+        "AmountToBeEarned": 139200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 538,
+        "AmountToBeEarned": 186500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 547,
+        "AmountToBeEarned": 228400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 591,
+        "AmountToBeEarned": 36100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 600,
+        "AmountToBeEarned": 47900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 658,
+        "AmountToBeEarned": 285000,
+        "Probability": 20
+      },
+      {
+        "TradeId": 661,
+        "AmountToBeEarned": 452100,
+        "Probability": 25
+      },
+      {
+        "TradeId": 677,
+        "AmountToBeEarned": 85800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 679,
+        "AmountToBeEarned": 66000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 686,
+        "AmountToBeEarned": 14500,
+        "Probability": 40
+      },
+      {
+        "TradeId": 687,
+        "AmountToBeEarned": 172400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 693,
+        "AmountToBeEarned": 273800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 695,
+        "AmountToBeEarned": 11900,
+        "Probability": 50
+      },
+      {
+        "TradeId": 710,
+        "AmountToBeEarned": 365800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 718,
+        "AmountToBeEarned": 341600,
+        "Probability": 90
+      },
+      {
+        "TradeId": 738,
+        "AmountToBeEarned": 381600,
+        "Probability": 70
+      },
+      {
+        "TradeId": 744,
+        "AmountToBeEarned": 45900,
+        "Probability": 30
+      },
+      {
+        "TradeId": 746,
+        "AmountToBeEarned": 9500,
+        "Probability": 50
+      },
+      {
+        "TradeId": 772,
+        "AmountToBeEarned": 249500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 799,
+        "AmountToBeEarned": 321500,
+        "Probability": 70
+      },
+      {
+        "TradeId": 820,
+        "AmountToBeEarned": 321300,
+        "Probability": 10
+      },
+      {
+        "TradeId": 830,
+        "AmountToBeEarned": 468900,
+        "Probability": 10
+      },
+      {
+        "TradeId": 863,
+        "AmountToBeEarned": 489200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 864,
+        "AmountToBeEarned": 59400,
+        "Probability": 30
+      },
+      {
+        "TradeId": 877,
+        "AmountToBeEarned": 350100,
+        "Probability": 30
+      },
+      {
+        "TradeId": 889,
+        "AmountToBeEarned": 248000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 892,
+        "AmountToBeEarned": 213100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 910,
+        "AmountToBeEarned": 2500,
+        "Probability": 85
+      },
+      {
+        "TradeId": 956,
+        "AmountToBeEarned": 486100,
+        "Probability": 20
+      },
+      {
+        "TradeId": 975,
+        "AmountToBeEarned": 161400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 980,
+        "AmountToBeEarned": 30100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 996,
+        "AmountToBeEarned": 3900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1019,
+        "AmountToBeEarned": 150800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1040,
+        "AmountToBeEarned": 314500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1042,
+        "AmountToBeEarned": 305000,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1059,
+        "AmountToBeEarned": 159800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1080,
+        "AmountToBeEarned": 41200,
+        "Probability": 70
+      },
+      {
+        "TradeId": 1095,
+        "AmountToBeEarned": 80700,
+        "Probability": 80
+      }
+    ],
+    "TotalTradeAmount": 17916300,
+    "AverageProbability": 66.53846153846153,
+    "DealCount": 78,
+    "AverageAmountPerDeal": 229696.15384615384615384615385
+  },
+  {
+    "Id": 2,
+    "FullName": "Alena Lososov\u00E1",
+    "FirstName": "Alena",
+    "LastName": "Lososov\u00E1",
+    "Email": "porubsky@raynet.cz",
+    "Gender": null,
+    "SourceBusinessCases": [
+      121,
+      128,
+      152,
+      154,
+      174,
+      184,
+      228,
+      239,
+      251,
+      270,
+      303,
+      305,
+      313,
+      316,
+      321,
+      332,
+      351,
+      360,
+      384,
+      391,
+      397,
+      422,
+      426,
+      440,
+      443,
+      461,
+      469,
+      474,
+      507,
+      508,
+      513,
+      516,
+      517,
+      523,
+      528,
+      529,
+      536,
+      548,
+      550,
+      567,
+      582,
+      589,
+      597,
+      599,
+      615,
+      616,
+      620,
+      634,
+      648,
+      668,
+      691,
+      707,
+      708,
+      711,
+      733,
+      753,
+      756,
+      778,
+      787,
+      788,
+      801,
+      809,
+      814,
+      834,
+      857,
+      873,
+      938,
+      992,
+      1009,
+      1037,
+      1048,
+      1056,
+      1057,
+      1063,
+      1070,
+      1079,
+      1088,
+      1096
+    ],
+    "Deals": [
+      {
+        "TradeId": 121,
+        "AmountToBeEarned": 325200,
+        "Probability": 25
+      },
+      {
+        "TradeId": 128,
+        "AmountToBeEarned": 218800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 152,
+        "AmountToBeEarned": 10800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 154,
+        "AmountToBeEarned": 221500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 174,
+        "AmountToBeEarned": 318700,
+        "Probability": 90
+      },
+      {
+        "TradeId": 184,
+        "AmountToBeEarned": 13400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 228,
+        "AmountToBeEarned": 52600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 239,
+        "AmountToBeEarned": 219400,
+        "Probability": 25
+      },
+      {
+        "TradeId": 251,
+        "AmountToBeEarned": 24300,
+        "Probability": 70
+      },
+      {
+        "TradeId": 270,
+        "AmountToBeEarned": 222900,
+        "Probability": 75
+      },
+      {
+        "TradeId": 303,
+        "AmountToBeEarned": 265000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 305,
+        "AmountToBeEarned": 46300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 313,
+        "AmountToBeEarned": 38200,
+        "Probability": 20
+      },
+      {
+        "TradeId": 316,
+        "AmountToBeEarned": 358000,
+        "Probability": 75
+      },
+      {
+        "TradeId": 321,
+        "AmountToBeEarned": 309500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 332,
+        "AmountToBeEarned": 126200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 351,
+        "AmountToBeEarned": 266100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 360,
+        "AmountToBeEarned": 5400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 384,
+        "AmountToBeEarned": 416400,
+        "Probability": 50
+      },
+      {
+        "TradeId": 391,
+        "AmountToBeEarned": 62300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 397,
+        "AmountToBeEarned": 463300,
+        "Probability": 60
+      },
+      {
+        "TradeId": 422,
+        "AmountToBeEarned": 74500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 426,
+        "AmountToBeEarned": 120400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 440,
+        "AmountToBeEarned": 476900,
+        "Probability": 70
+      },
+      {
+        "TradeId": 443,
+        "AmountToBeEarned": 484500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 461,
+        "AmountToBeEarned": 277700,
+        "Probability": 60
+      },
+      {
+        "TradeId": 469,
+        "AmountToBeEarned": 7200,
+        "Probability": 15
+      },
+      {
+        "TradeId": 474,
+        "AmountToBeEarned": 345500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 507,
+        "AmountToBeEarned": 168300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 508,
+        "AmountToBeEarned": 24400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 513,
+        "AmountToBeEarned": 390100,
+        "Probability": 60
+      },
+      {
+        "TradeId": 516,
+        "AmountToBeEarned": 15800,
+        "Probability": 25
+      },
+      {
+        "TradeId": 517,
+        "AmountToBeEarned": 80700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 523,
+        "AmountToBeEarned": 18200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 528,
+        "AmountToBeEarned": 333400,
+        "Probability": 100
+      },
+      {
+        "TradeId": 529,
+        "AmountToBeEarned": 20800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 536,
+        "AmountToBeEarned": 455500,
+        "Probability": 30
+      },
+      {
+        "TradeId": 548,
+        "AmountToBeEarned": 34200,
+        "Probability": 100
+      },
+      {
+        "TradeId": 550,
+        "AmountToBeEarned": 78600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 567,
+        "AmountToBeEarned": 63900,
+        "Probability": 85
+      },
+      {
+        "TradeId": 582,
+        "AmountToBeEarned": 199000,
+        "Probability": 30
+      },
+      {
+        "TradeId": 589,
+        "AmountToBeEarned": 19300,
+        "Probability": 30
+      },
+      {
+        "TradeId": 597,
+        "AmountToBeEarned": 87100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 599,
+        "AmountToBeEarned": 185900,
+        "Probability": 20
+      },
+      {
+        "TradeId": 615,
+        "AmountToBeEarned": 250300,
+        "Probability": 90
+      },
+      {
+        "TradeId": 616,
+        "AmountToBeEarned": 366100,
+        "Probability": 90
+      },
+      {
+        "TradeId": 620,
+        "AmountToBeEarned": 165400,
+        "Probability": 30
+      },
+      {
+        "TradeId": 634,
+        "AmountToBeEarned": 141800,
+        "Probability": 60
+      },
+      {
+        "TradeId": 648,
+        "AmountToBeEarned": 78800,
+        "Probability": 30
+      },
+      {
+        "TradeId": 668,
+        "AmountToBeEarned": 52100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 691,
+        "AmountToBeEarned": 168600,
+        "Probability": 100
+      },
+      {
+        "TradeId": 707,
+        "AmountToBeEarned": 123000,
+        "Probability": 90
+      },
+      {
+        "TradeId": 708,
+        "AmountToBeEarned": 198900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 711,
+        "AmountToBeEarned": 112300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 733,
+        "AmountToBeEarned": 171900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 753,
+        "AmountToBeEarned": 469200,
+        "Probability": 85
+      },
+      {
+        "TradeId": 756,
+        "AmountToBeEarned": 148500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 778,
+        "AmountToBeEarned": 476900,
+        "Probability": 100
+      },
+      {
+        "TradeId": 787,
+        "AmountToBeEarned": 267100,
+        "Probability": 100
+      },
+      {
+        "TradeId": 788,
+        "AmountToBeEarned": 232800,
+        "Probability": 100
+      },
+      {
+        "TradeId": 801,
+        "AmountToBeEarned": 41500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 809,
+        "AmountToBeEarned": 217600,
+        "Probability": 30
+      },
+      {
+        "TradeId": 814,
+        "AmountToBeEarned": 117700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 834,
+        "AmountToBeEarned": 73300,
+        "Probability": 100
+      },
+      {
+        "TradeId": 857,
+        "AmountToBeEarned": 412800,
+        "Probability": 40
+      },
+      {
+        "TradeId": 873,
+        "AmountToBeEarned": 121300,
+        "Probability": 90
+      },
+      {
+        "TradeId": 938,
+        "AmountToBeEarned": 333200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 992,
+        "AmountToBeEarned": 272700,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1009,
+        "AmountToBeEarned": 305800,
+        "Probability": 40
+      },
+      {
+        "TradeId": 1037,
+        "AmountToBeEarned": 467500,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1048,
+        "AmountToBeEarned": 195100,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1056,
+        "AmountToBeEarned": 268200,
+        "Probability": 50
+      },
+      {
+        "TradeId": 1057,
+        "AmountToBeEarned": 47000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1063,
+        "AmountToBeEarned": 82000,
+        "Probability": 100
+      },
+      {
+        "TradeId": 1070,
+        "AmountToBeEarned": 129500,
+        "Probability": 60
+      },
+      {
+        "TradeId": 1079,
+        "AmountToBeEarned": 225200,
+        "Probability": 80
+      },
+      {
+        "TradeId": 1088,
+        "AmountToBeEarned": 108800,
+        "Probability": 80
+      },
+      {
+        "TradeId": 1096,
+        "AmountToBeEarned": 247100,
+        "Probability": 20
+      }
+    ],
+    "TotalTradeAmount": 15036200,
+    "AverageProbability": 77.94871794871794,
+    "DealCount": 78,
+    "AverageAmountPerDeal": 192771.79487179487179487179487
+  }
+]
